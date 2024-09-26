@@ -10,4 +10,5 @@ public abstract class Card {
     public abstract int getCardType();
     
     // comentario nuevo para probar el push
+    // nuevo comentario
 }
