@@ -1,5 +1,5 @@
 package edu.ncsu.monopoly;
-//I have added a comment“
+//I have added a commentï¿½
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
@@ -8,4 +8,6 @@ public abstract class Card {
     public abstract String getLabel();
     public abstract void applyAction();
     public abstract int getCardType();
+    
+    // comentario nuevo para probar el push
 }
